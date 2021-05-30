@@ -1,2 +1,0 @@
-# ILC
-Invertor Light Controller
