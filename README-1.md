@@ -67,6 +67,8 @@ Run the program in ./Programs/ILC/init-program with setting the time & Date on 4
 
 If all gone good. Then upload the ./Programs/ILC/Main-Program/ILC. Change the Time acaroding to your schdule. Use Comments as help!
 
+Please Cheack other Documents as referance & I also include my 3-D model!
+
 # Proof
 
 ![My Build-1](https://github.com/Uniquely-Rare/ILC/Pic/1.jpg)
